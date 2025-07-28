@@ -17,5 +17,5 @@ Atuo com foco em integrações, APIs RESTful, microsserviços e infraestrutura e
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardomossim)
-- 💌 Email: mossimleonardo@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/leonardomossim)
+-  Email: mossimleonardo@gmail.com
